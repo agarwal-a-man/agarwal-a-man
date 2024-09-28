@@ -16,7 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=agarwal-a-man&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![] Experience is the name everyone gives to their mistakes.
+                                              – Oscar Wilde
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=agarwal-a-man&limit=5&theme=dark&combine_all_yearly_contributions=true)
